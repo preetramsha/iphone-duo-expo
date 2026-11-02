@@ -1,5 +1,7 @@
 # iphone-duo-expo
 
+[![skills.sh](https://skills.sh/b/preetramsha/iphone-duo-expo)](https://skills.sh/preetramsha/iphone-duo-expo)
+
 A skill for making React Native / Expo apps work correctly on Apple's iPhone Duo
 foldable — safe areas, the vertical rail, dynamic window sizes, native
 navigation, `expo-hinge`, and the iOS 27 `UIScene` lifecycle crash.
